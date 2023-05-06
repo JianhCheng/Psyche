@@ -1,0 +1,41 @@
+.main{
+  /* align:center; */
+  /* width: 90%; */
+  margin-top: 15px;
+  margin-left: 5%;
+  margin-right: 5%;
+  float: left;
+}
+
+.el-header,
+.el-footer {
+  height: 200px;
+  color: #333;
+  text-align: center;
+}
+
+.el-main {
+  color: #333;
+  text-align: center;
+  height: fit-content;
+}
+
+body>.el-container {
+  margin-bottom: 0px;
+}
+
+.el-container:nth-child(5) .el-aside,
+.el-container:nth-child(6) .el-aside {
+  line-height: 260px;
+}
+
+.el-container:nth-child(7) .el-aside {
+  line-height: 320px;
+}
+
+a{
+  text-decoration: none;
+}
+.router-link-active {
+  text-decoration: none;
+}
