@@ -42,7 +42,7 @@
 
  
 
-![image-20230619211021862](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619211021862.png)
+![image-20230619211021862](https://github.com/JianhCheng/Psyche/blob/main/imgs/1.png)
 
 ​																									图2-1 用户登录界面
 
@@ -52,7 +52,7 @@
 
  
 
-![image-20230619212707029](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619212707029.png)
+![image-20230619212707029](https://github.com/JianhCheng/Psyche/blob/main/imgs/2.png)
 
 ​																									图2-2 用户注册界面
 
@@ -64,7 +64,7 @@
 
  
 
-![image-20230619212718032](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619212718032.png)
+![image-20230619212718032](https://github.com/JianhCheng/Psyche/blob/main/imgs/3.png)
 
 ​																									图2-3 首页部分展示
 
@@ -74,7 +74,7 @@
 
  
 
-![image-20230619212731208](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619212731208.png)
+![image-20230619212731208](https://github.com/JianhCheng/Psyche/blob/main/imgs/4.png)
 
 ​																									图2-4 首页部分展示
 
@@ -86,7 +86,7 @@
 
 ​		文章展示页会向用户展示最新的文章，可点击view more进入阅读，如下是最新文章的展示，效果如图2-5：
 
-![image-20230619214228252](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619214228252.png)
+![image-20230619214228252](https://github.com/JianhCheng/Psyche/blob/main/imgs/5.png)
 
 ​																									图2-5 最新文章展示
 
@@ -94,7 +94,7 @@
 
 ​		如下，是推荐文章，点击标题可进入阅读，如图2-6所示。
 
-​														![image-20230619214922846](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619214922846.png)
+​														![image-20230619214922846](https://github.com/JianhCheng/Psyche/blob/main/imgs/6.png)
 
 ​																									图2-6 推荐文章展示
 
@@ -104,7 +104,7 @@
 
  
 
-![image-20230619214243556](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619214243556.png)
+![image-20230619214243556](https://github.com/JianhCheng/Psyche/blob/main/imgs/7.png)
 
 ​																									图2-7 部分推荐文章展示
 
@@ -116,7 +116,7 @@
 
 
 
- 										![image-20230619215122185](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619215122185.png)
+ 										![image-20230619215122185](https://github.com/JianhCheng/Psyche/blob/main/imgs/8.png)
 
 
 
@@ -130,7 +130,7 @@
 
  
 
-![image-20230619215933153](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619215933153.png)
+![image-20230619215933153](https://github.com/JianhCheng/Psyche/blob/main/imgs/9.png)
 
 ​																									图2-9 文章详情
 
@@ -140,7 +140,7 @@
 
  
 
-![image-20230619215939530](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619215939530.png)
+![image-20230619215939530](https://github.com/JianhCheng/Psyche/blob/main/imgs/10.png)
 
 ​																									图2-10 Next模块
 
