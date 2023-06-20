@@ -154,7 +154,7 @@
 
  
 
-![image-20230619215952433](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619215952433.png)
+![image-20230619215952433](https://github.com/JianhCheng/Psyche/blob/main/imgs/11.png)
 
 ​																									图2-11 题库列表页
 
@@ -166,7 +166,7 @@
 
  
 
-![image-20230619220005188](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220005188.png)
+![image-20230619220005188](https://github.com/JianhCheng/Psyche/blob/main/imgs/12.png)
 
 ​																									图2-12 题库详情页
 
@@ -178,7 +178,7 @@
 
 
 
-​													 ![image-20230619220238377](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220238377.png)
+​													 ![image-20230619220238377](https://github.com/JianhCheng/Psyche/blob/main/imgs/13.png)
 
 ​																									图2-13 刷题页
 
@@ -192,7 +192,7 @@
 
  
 
-![image-20230619220254021](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220254021.png)
+![image-20230619220254021](https://github.com/JianhCheng/Psyche/blob/main/imgs/14.png)
 
 ​																									图2-14 知识点列表页
 
@@ -204,7 +204,7 @@
 
  
 
-![image-20230619220303491](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220303491.png)
+![image-20230619220303491](https://github.com/JianhCheng/Psyche/blob/main/imgs/15.png)
 
 ​																									图2-15 知识点详情页
 
@@ -216,7 +216,7 @@
 
  
 
-![image-20230619223548180](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619223548180.png)
+![image-20230619223548180](https://github.com/JianhCheng/Psyche/blob/main/imgs/16.png)
 
 ​																									图2-16 个人主页
 
@@ -226,7 +226,7 @@
 
  
 
-![image-20230619220431035](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220431035.png)
+![image-20230619220431035](https://github.com/JianhCheng/Psyche/blob/main/imgs/17.png)
 
 ​																									图2-17 文章收藏
 
@@ -240,7 +240,7 @@
 
  
 
-![image-20230619220517197](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220517197.png)
+![image-20230619220517197](https://github.com/JianhCheng/Psyche/blob/main/imgs/18.png)
 
 ​																									图2-18 登录界面
 
@@ -252,7 +252,7 @@
 
  
 
-![image-20230619220538440](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220538440.png)
+![image-20230619220538440](https://github.com/JianhCheng/Psyche/blob/main/imgs/19.png)
 
 ​																									图2-19 功能管理-题库管理页面
 
@@ -264,7 +264,7 @@
 
  
 
-![image-20230619220600598](C:\Users\江城\AppData\Roaming\Typora\typora-user-images\image-20230619220600598.png)
+![image-20230619220600598](https://github.com/JianhCheng/Psyche/blob/main/imgs/20.png)
 
 ​																									图2-20 系统功能-角色管理页面
 
