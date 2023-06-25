@@ -110,7 +110,7 @@
 
 
 
- 										![image-20230619215122185](https://github.com/JianhCheng/Psyche/blob/main/imgs/8.png)
+![image-20230619215122185](https://github.com/JianhCheng/Psyche/blob/main/imgs/8.png)
 
 
 
